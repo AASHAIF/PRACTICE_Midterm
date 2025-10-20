@@ -4,9 +4,9 @@
 public class quraticsolver {
 
     // >>> EDIT THESE THREE LINES FOR THE EXAM STEP (f) <<<
-    static int a = 1;   // change me
-    static int b = -3;  // change me
-    static int c = 2;   // change me
+    static int a = 10;   // change me
+    static int b = -2;  // change me
+    static int c = 1;   // change me
     // <<< EDIT ONLY THE INTS ABOVE >>>
 
     public static void main(String[] args) {
