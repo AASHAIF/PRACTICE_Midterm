@@ -5,7 +5,7 @@ public class quraticsolver {
 
     // >>> EDIT THESE THREE LINES FOR THE EXAM STEP (f) <<<
     static int a = 10;   // change me
-    static int b = -2;  // change me
+    static int b = -20;  // change me
     static int c = 10;   // change me
     // <<< EDIT ONLY THE INTS ABOVE >>>
 
